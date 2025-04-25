@@ -55,7 +55,7 @@ Make sure your MySQL server is running, and you've created the `billing_system` 
 ### 1. **Clone the Repository**
 Clone this repository to your local machine using the following command:
 ```bash
-git clone https://shubhagith.github.io/Desktop-Application-Billing-Form/
+git clone https://github.com/shubhagith/Desktop-Application-Billing-Form.git
 ```
 
 ### 2. **Run the Python Application**
